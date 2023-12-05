@@ -16,3 +16,9 @@
     width: 416px;
     font-size: 40px;
 }
+
+.more-button:hover {
+    scale: 1.1 1.1;
+    background-color: rgba(178, 234, 241, 255);
+    color: rgba(10, 9, 9, 255);
+}
